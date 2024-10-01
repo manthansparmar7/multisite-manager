@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ /* ID column width for subsites admin page */
+th#site_id {
+    width: 90px;
+}
